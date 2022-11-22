@@ -16,7 +16,7 @@ print(f'(This is a string, I can put whatever in here) This is an integer: {inte
 float = 1586.346753674739868468
 print(f'This is a float number: {float}')
 
-go_to_next_part()
+go_to_next_part()wer
 print('PART TWO!')
 
 
